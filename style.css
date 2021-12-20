@@ -29,6 +29,10 @@ main p {
 }
 
 
+.group img {
+  width: 100%;
+}
+
 .group {
   display: flex;
   flex-direction: column;
